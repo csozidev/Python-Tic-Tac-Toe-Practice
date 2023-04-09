@@ -1,4 +1,4 @@
-# Python-Tic-Tac-Toe-Practice
+# Python Tic-Tac-Toe Practice
 This is just a little project I made for practicing my Python :D
 
 # How to play?
